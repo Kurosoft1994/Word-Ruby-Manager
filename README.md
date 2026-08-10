@@ -5,6 +5,25 @@ Microsoft Word文書内のルビ（フリガナ）を一括追加・削除・補
 
 ---
 
+## 💻 動作環境・セキュリティ
+
+* **対応OS**: Windows 10 / 11
+* **対応ソフト**: Microsoft Word（デスクトップ版 / Microsoft 365, Word 2016以降）
+* **非対応環境**: Mac版 Microsoft Word、Web版 Office（Word Online）
+  *(※ Windows標準のCOM機能 `Excel.Application` / `ADODB.Stream` を使用するため)*
+* **セキュリティ**: 完全ローカル処理（外部サーバーへの通信・データ送信は一切行いません）
+
+---
+
+## 🚀 使い方・セットアップ
+
+1. Wordで本マクロを適用したい文書を開きます。
+...
+
+
+
+---
+
 ## 🌟 主な機能と特徴
 
 1. **6つの操作モード**
