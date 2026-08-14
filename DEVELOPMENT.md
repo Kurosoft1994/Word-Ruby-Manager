@@ -134,7 +134,7 @@ Word文書内のルビ（フリガナ）を一括追加・削除・補正する�
 
 ### 生成物
 
-[AI一発生成版 ZIP（RubyManager_GitHub_Source.zip）](../blob/main/RubyManager_GitHub_Source.zip)
+[AI一発生成版 ZIP（RubyManager_GitHub_Source.zip）](https://github.com/Kurosoft1994/Word-Ruby-Manager/blob/main/RubyManager_GitHub_Source.zip)
 
 ZIPファイルには、生成AIが作成した以下のファイルを収録しています。
 
